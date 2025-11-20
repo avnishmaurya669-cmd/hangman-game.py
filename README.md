@@ -1,5 +1,6 @@
 # hangman-game.py
 hangman game using python
+import random
 w=random.choice(["python","hangman","dev","game"])g,t=[],6
 
 print("_"*len(w))
